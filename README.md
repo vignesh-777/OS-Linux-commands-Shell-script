@@ -110,12 +110,12 @@ hello world
  
 #### grep Hello newfile 
 ## OUTPUT
-![](/9th.png)
+![](./9th.png)
 
 
 #### grep hello newfile 
 ## OUTPUT
-![](/10th.png)
+![](./10th.png)
 
 
 
@@ -192,7 +192,7 @@ Linux is best in this World
 
 #### egrep '(World$)' newfile 
 ## OUTPUT
-![](/21th.png)
+![](./21th.png)
 
 #### egrep '((W|w)orld$)' newfile 
 ## OUTPUT
